@@ -1,0 +1,29 @@
+React for Beginners: https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2lkKm0BG9wUWWSgYWBzDa-dFs
+
+1. Introduction
+4. How React app works
+5. Creating a component in React
+6. Auto format React codes [Use Prettier]
+7. What is JSX in React?
+    7.1 JSX stands for JavaScript Extension
+    7.2 Allow you to combine HTML and JavaScript [Component concept]
+8. Reusability of Component in React
+9. What are Props (Properties) in React?
+ 9.1 Make our components dynamic with Props
+10. Destructing Props
+11. Immutability of Props in React
+12. Passing Array & Objects to Component Using Props
+13. Rendering arrays or Lists in React
+14. Rendering arrays of objects in React
+15. Rendering Component Inside a Loop
+16. Conditionally Rendering JSX & Components [Not the best practice]
+17. Conditional Rendering Using Element Variables [Long code]
+18. Using Ternary Operators In React [Best practice]
+19. Conditionally rendering list item
+20. Conditionally Rendering a message using Ternary
+================================================================
+
+21. Event Handling in React
+22-23. State In React
+24. Create multiple state in React
+25. Handling Input Field in React
