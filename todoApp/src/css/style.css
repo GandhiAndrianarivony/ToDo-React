@@ -1,0 +1,15 @@
+.inline-header {
+    color: gray;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.outline-header {
+    color: lightblue;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -27,3 +27,6 @@ React for Beginners: https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2
 22-23. State In React
 24. Create multiple state in React
 25. Handling Input Field in React
+27. Handling Form submission in React
+32. Todo App Part 5 Displaying Todos
+33. Todo App Part 6 Inline Styling In React Components
